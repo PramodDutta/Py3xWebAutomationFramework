@@ -6,6 +6,7 @@ from selenium import webdriver
 from tests.pageObejcts.pom.loginPage import LoginPage
 from tests.pageObejcts.pom.dashboardPage import DashboardPage
 from tests.utils.commom_utils import webdriver_wait
+from tests.constants.constants import Constants
 
 
 # Assertions and use the Page Object class
@@ -14,7 +15,7 @@ from tests.utils.commom_utils import webdriver_wait
 def setup():
     driver = webdriver.Chrome()
     driver.maximize_window()
-    driver.get("https://app.vwo.com")
+    driver.get(Constants.app_url())
     return driver
 
 
