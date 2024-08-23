@@ -40,3 +40,7 @@ pip install allure-pytest selenium pytest openpyxl faker pytest-xdist pytest-htm
 
 #### How to run the Framework?
 ```pytest -n auto tests/vwoLoginTests/pom/test_*```
+
+#### How to run Testcase parallel ?
+
+``` pytest -n auto tests/test/vwoLoginTests/test_vwo_login.py```
