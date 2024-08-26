@@ -52,3 +52,6 @@ pip install allure-pytest selenium pytest openpyxl faker pytest-xdist pytest-htm
 #### How to run All Testcase parallel ?
 
 ```pytest -n auto tests/test/vwoLoginTests/test_*```
+
+
+pip install -r requirements.txt
