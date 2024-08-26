@@ -30,6 +30,7 @@
 - pip install pytest-xdist 
 - pip install mysql-connector-python
 - pip install pytest-reportportal
+- pip install python-dotenv
 ```
 
 ### Install all in the one Go
@@ -44,3 +45,10 @@ pip install allure-pytest selenium pytest openpyxl faker pytest-xdist pytest-htm
 #### How to run Testcase parallel ?
 
 ``` pytest -n auto tests/test/vwoLoginTests/test_vwo_login.py```
+
+#### How to run a Single TestClass
+```pytest tests/test/vwoLoginTests/test_vwo_login_pf.py```
+
+#### How to run All Testcase parallel ?
+
+```pytest -n auto tests/test/vwoLoginTests/test_*```

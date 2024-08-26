@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ff91fd-792f-4a85-b382-f064c3bb3da3" name="Changes" comment="All files">
-      <change beforePath="$PROJECT_DIR$/tests/constants/Constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/loginPage_pf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/utils/commom_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/utils/commom_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724381624686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All files">
+      <option name="closed" value="true" />
+      <created>1724381859068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724381859068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
