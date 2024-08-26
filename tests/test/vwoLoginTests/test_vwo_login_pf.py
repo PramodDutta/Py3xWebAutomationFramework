@@ -15,7 +15,7 @@ class TestVWOLogin:
     @pytest.mark.usefixtures("setup")
     @pytest.mark.qa
     def test_vwo_login_negative(self, setup):
-        try:
+        try:  # TODO - 2.Exception Concept
             driver = setup
             driver.get(Constants.app_url())
             loginPage = LoginPage(driver)

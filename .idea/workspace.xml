@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ff91fd-792f-4a85-b382-f064c3bb3da3" name="Changes" comment="All files">
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/dashboardPage_pf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="15ff91fd-792f-4a85-b382-f064c3bb3da3" name="Changes" comment="All files PUSHED">
+      <change beforePath="$PROJECT_DIR$/tests/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageObejcts/page_factory/dashboardPage_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/dashboardPage_pf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login_pf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/utils/commom_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/utils/commom_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,12 +158,32 @@
       <option name="project" value="LOCAL" />
       <updated>1724639298343</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All files PUSHED">
+      <option name="closed" value="true" />
+      <created>1724640744353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724640744353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added New Files" />
     <MESSAGE value="All files" />
-    <option name="LAST_COMMIT_MESSAGE" value="All files" />
+    <MESSAGE value="All files PUSHED" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files PUSHED" />
   </component>
 </project>

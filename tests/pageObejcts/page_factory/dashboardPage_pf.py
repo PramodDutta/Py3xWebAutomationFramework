@@ -4,7 +4,7 @@ from seleniumpagefactory.Pagefactory import PageFactory
 from tests.utils.commom_utils import webdriver_wait_url
 
 
-class DashboardPage(PageFactory):
+class DashboardPage(PageFactory):  # TODO - 1.Single Inheritance
     # Webdriver - Init
     def __init__(self, driver):
         self.driver = driver

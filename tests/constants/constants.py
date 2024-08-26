@@ -8,7 +8,11 @@ class Constants:
         print("constants loaded")
 
     @staticmethod
-    def app_url():
+    def app_url(): #TODO - 3. Polymorphism - method overloading
+        return "https://app.vwo.com"
+
+    @staticmethod
+    def app_url(name):
         return "https://app.vwo.com"
 
     @staticmethod
