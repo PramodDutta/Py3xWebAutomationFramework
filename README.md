@@ -62,3 +62,6 @@ pip install -r requirements.txt
 set "PYTHON_PATH=C:\Program Files\Python311"
 set "SCRIPTS_PATH=%PYTHON_PATH%\Scripts"
 set PATH=%PATH%;%PYTHON_PATH%;%SCRIPTS_PATH%
+
+
+pip install allure-pytest selenium pytest selenium-page-factory pytest-html openpyxl pyyaml faker openpyxl pytest-xdist python-dotenv
