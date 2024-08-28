@@ -55,3 +55,10 @@ pip install allure-pytest selenium pytest openpyxl faker pytest-xdist pytest-htm
 
 
 pip install -r requirements.txt
+
+
+
+#Set the Python path
+set "PYTHON_PATH=C:\Program Files\Python311"
+set "SCRIPTS_PATH=%PYTHON_PATH%\Scripts"
+set PATH=%PATH%;%PYTHON_PATH%;%SCRIPTS_PATH%
