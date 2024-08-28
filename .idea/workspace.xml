@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ff91fd-792f-4a85-b382-f064c3bb3da3" name="Changes" comment="All files PUSHED">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="15ff91fd-792f-4a85-b382-f064c3bb3da3" name="Changes" comment="req">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/test_vwo_login_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724641338841</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="req">
+      <option name="closed" value="true" />
+      <created>1724812149890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724812149890</updated>
+    </task>
+    <task id="LOCAL-00010" summary="req">
+      <option name="closed" value="true" />
+      <created>1724812227646</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724812227646</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +232,7 @@
     <MESSAGE value="Added New Files" />
     <MESSAGE value="All files" />
     <MESSAGE value="All files PUSHED" />
-    <option name="LAST_COMMIT_MESSAGE" value="All files PUSHED" />
+    <MESSAGE value="req" />
+    <option name="LAST_COMMIT_MESSAGE" value="req" />
   </component>
 </project>
