@@ -5,7 +5,7 @@ import pytest
 from selenium import webdriver
 from tests.pageObejcts.pom.loginPage import LoginPage
 from tests.pageObejcts.pom.dashboardPage import DashboardPage
-from tests.utils.commom_utils import webdriver_wait
+from tests.utils.common_utils import webdriver_wait
 from tests.constants.constants import Constants
 
 
